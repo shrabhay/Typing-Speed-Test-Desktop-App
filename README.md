@@ -45,8 +45,8 @@ A JSON file used to store user scores persistently. This file is created automat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/typing-speed-test-app.git
-   cd typing-speed-test-app
+   git clone https://github.com/shrabhay/Typing-Speed-Test-Desktop-App
+   cd Typing-Speed-Test-Desktop-App
    ```
 
 2. Install Python (if not already installed):
